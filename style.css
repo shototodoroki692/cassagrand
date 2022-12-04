@@ -986,7 +986,7 @@ footer .links form{
   }
 }
 
-@media (max-width: 8cm){
+@media (max-width: 10cm){
   header{
     height: 350vh;
   }
