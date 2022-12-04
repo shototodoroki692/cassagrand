@@ -985,3 +985,9 @@ footer .links form{
     height: 110vh;
   }
 }
+
+@media (max-width: 6cm){
+  header{
+    height: 310vh;
+  }
+}
