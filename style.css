@@ -990,4 +990,8 @@ footer .links form{
   header{
     height: 150vh;
   }
+  
+  .galerie2 .item{
+    border-radius: 24px;
+  }
 }
